@@ -1,0 +1,9 @@
+{
+  "name": "sarmad-signal",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
